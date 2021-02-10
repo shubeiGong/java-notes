@@ -35,6 +35,3 @@ public final void wait() throws InterruptedException{
 
 //实例被垃圾回收器回收的时候触发的操作
 protected void finalize() throws Throwable { }
-
-
-参考：https://github.com/Snailclimb/JavaGuide
